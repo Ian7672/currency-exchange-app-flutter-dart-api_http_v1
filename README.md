@@ -267,7 +267,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Ian7672**
 - GitHub: [@Ian7672](https://github.com/Ian7672)
-- Email: ian@example.com
 
 ## 🙏 Acknowledgments
 
