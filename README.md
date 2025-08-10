@@ -31,6 +31,8 @@ Money icon by [Freepik - Flaticon](https://www.flaticon.com/free-icon/money_1111
 
 ## 🎥 Demo Video
 
+[Link Demo App](https://github.com/user-attachments/assets/e5eb8d99-2c1c-492e-8c23-70ec19714539)
+
 
 
 ## 🚀 Getting Started
