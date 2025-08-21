@@ -50,7 +50,7 @@ Money icon by [Freepik - Flaticon](https://www.flaticon.com/free-icon/money_1111
 1. **Clone the repository**
    ```pwsh
    git clone https://github.com/Ian7672/currency-exchange-app-flutter-dart-api_http_v1
-   cd usd2idr_exchangerate
+   cd currency-exchange-app-flutter-dart-api_http_v1
    ```
 
 2. **Install dependencies**
